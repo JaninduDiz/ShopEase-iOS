@@ -1,0 +1,406 @@
+{ "products": 
+	[
+        {
+            "id": "1",
+            "name": "Google Pixel 6 Pro",
+            "price": {
+              "value": 899.00,
+              "currency": "USD"
+            },
+            "info": {
+              "color": "Stromy Black",
+              "storage": "128GB",
+              "display": "6.7-inch OLED display",
+              "camera": "Triple 50MP camera system",
+              "processor": "Google Tensor",
+              "battery": "5000mAh",
+              "features": ["5G", "Wireless charging"]
+            },
+            "type": "mobile",
+            "imageUrl": "https://www.innovink.lk/wp-content/uploads/2022/12/716n8eAiaL._AC_SL1500_.jpg"
+          },
+          {
+            "id": "2",
+            "name": "Google Pixel 5a",
+            "price": {
+              "value": 449.00,
+              "currency": "USD"
+            },
+            "info": {
+              "color": "Mostly Green",
+              "storage": "128GB",
+              "display": "6.34-inch OLED display",
+              "camera": "Dual 12.2MP + 16MP camera system",
+              "processor": "Qualcomm Snapdragon 765G",
+              "battery": "4680mAh",
+              "features": ["5G", "IP67 water and dust resistance"]
+            },
+            "type": "mobile",
+            "imageUrl": "https://www.queensmobiles.lk/wp-content/uploads/2023/03/Google-Pixel-5a.jpg"
+          },
+          {
+            "id": "3",
+            "name": "Google Pixel 4a",
+            "price": {
+              "value": 349.00,
+              "currency": "USD"
+            },
+            "info": {
+              "color": "Just Black",
+              "storage": "128GB",
+              "display": "5.81-inch OLED display",
+              "camera": "12.2MP dual-pixel rear camera",
+              "processor": "Qualcomm Snapdragon 730G",
+              "battery": "3140mAh",
+              "features": ["Titan M security module", "USB-C", "3.5mm headphone jack"]
+            },
+            "type": "mobile",
+            "imageUrl": "https://www.queensmobiles.lk/wp-content/uploads/2023/03/Google-Pixel-4a.jpg"
+          },
+        {
+           "id": "4",
+           "name": "Dell XPS 15",
+           "price": {
+             "value": 1799.00,
+             "currency": "USD"
+           },
+           "info": {
+             "processor": "Intel Core i7",
+             "memory": "16GB RAM",
+             "storage": "512GB SSD",
+             "graphics": "NVIDIA GeForce RTX 3050 Ti",
+             "display": "15.6-inch 4K OLED display"
+           },
+           "type": "laptop",
+           "imageUrl": "https://cdn.huntoffice.co.uk/images/D/auto_20230320164752_44414831_00_r-bd5b6b2d15e9da5aa331fbaa98346289_8DE37Y0H.jpg"
+         },
+         {
+           "id": "5",
+           "name": "HP Spectre x360",
+           "price": {
+             "value": 1499.00,
+             "currency": "USD"
+           },
+           "info": {
+             "processor": "Intel Core i7",
+             "memory": "16GB RAM",
+             "storage": "1TB SSD",
+             "graphics": "Intel Iris Xe",
+             "display": "13.3-inch FHD touchscreen display"
+           },
+           "type": "laptop",
+           "imageUrl": "https://www.hp.com/ca-en/shop/Html/Merch/Images/c07760620_1750x1285.jpg"
+         },
+         {
+           "id": "6",
+           "name": "Lenovo ThinkPad X1 Carbon",
+           "price": {
+             "value": 1699.00,
+             "currency": "USD"
+           },
+           "info": {
+             "processor": "Intel Core i7",
+             "memory": "16GB RAM",
+             "storage": "512GB SSD",
+             "graphics": "Intel Iris Xe",
+             "display": "14-inch 4K IPS display"
+           },
+           "type": "laptop",
+           "imageUrl": "https://laptopsking.com/cdn/shop/files/LenovoThinkpadX1Carbon_3.jpg?v=1689406534&width=1445"
+         },
+        {
+           "id": "7",
+           "name": "MacBook Pro 16-inch",
+           "price": {
+             "value": 2399.00,
+             "currency": "USD"
+           },
+           "info": {
+             "processor": "Intel Core i9",
+             "memory": "16GB RAM",
+             "storage": "1TB SSD",
+             "graphics": "AMD Radeon Pro 5500M",
+             "display": "16-inch Retina display"
+           },
+           "type": "laptop",
+           "imageUrl": "https://www.apple.com/v/macbook-pro-14-and-16/a/images/meta/macbook-pro-14-and-16_overview__fz0lron5xyuu_og.png"
+         },
+         {
+           "id": "8",
+           "name": "MacBook Air",
+           "price": {
+             "value": 999.00,
+             "currency": "USD"
+           },
+           "info": {
+             "processor": "Apple M1 chip",
+             "memory": "8GB RAM",
+             "storage": "256GB SSD",
+             "display": "13.3-inch Retina display"
+           },
+           "type": "laptop",
+           "imageUrl": "https://www.nanotek.lk/uploads/product/2018-20210831130009-mac.png"
+         },
+         {
+           "id": "9",
+           "name": "iMac 27-inch",
+           "price": {
+             "value": 1799.00,
+             "currency": "USD"
+           },
+           "info": {
+             "processor": "Intel Core i9",
+             "memory": "32GB RAM",
+             "storage": "512GB SSD",
+             "graphics": "AMD Radeon Pro 5700XT",
+             "display": "27-inch Retina 5K display"
+           },
+           "type": "computer",
+           "imageUrl": "https://cdsassets.apple.com/live/SZLF0YNV/images/sp/111913_sp821-imac-27.png"
+         },
+         {
+           "id": "10",
+           "name": "Mac mini",
+           "price": {
+             "value": 699.00,
+             "currency": "USD"
+           },
+           "info": {
+             "processor": "Apple M1 chip",
+             "memory": "8GB RAM",
+             "storage": "256GB SSD"
+           },
+           "type": "computer",
+           "imageUrl": "https://atlas-content-cdn.pixelsquid.com/stock-images/apple-mac-mini-computer-tower-ZR6JPn6-600.jpg"
+         },
+         {
+           "id": "11",
+           "name": "Mac Pro",
+           "price": {
+             "value": 5999.00,
+             "currency": "USD"
+           },
+           "info": {
+             "processor": "Intel Xeon W",
+             "memory": "32GB RAM",
+             "storage": "1TB SSD",
+             "graphics": "AMD Radeon Pro Vega II"
+           },
+           "type": "computer",
+           "imageUrl": "https://help.apple.com/assets/646BA1F028A6766AF70D82D8/646BE2C59BBA75275D56B328/en_US/fbac8523b0d81e806024f9d46cb3b976.png"
+         },
+        
+          {
+            "id": "12",
+            "name": "iPhone 15",
+            "price": {
+              "value": 999.00,
+              "currency": "USD"
+            },
+            "info": {
+              "color": "Space Grey",
+              "storage": "256GB",
+              "display": "6.1-inch Super Retina XDR display",
+              "camera": "Dual 12MP camera system",
+              "processor": "A16 Bionic chip",
+              "connectivity": "5G",
+              "features": ["Face ID", "MagSafe"]
+            },
+            "type": "mobile",
+            "imageUrl": "https://www.apple.com/newsroom/images/2023/09/apple-debuts-iphone-15-and-iphone-15-plus/article/Apple-iPhone-15-lineup-hero-230912_inline.jpg.large.jpg"
+          },
+          {
+            "id": "13",
+            "name": "iPhone 14",
+            "price": {
+              "value": 899.00,
+              "currency": "USD"
+            },
+            "info": {
+              "color": "Silver",
+              "storage": "128GB",
+              "display": "6.1-inch Super Retina XDR display",
+              "camera": "Dual 12MP camera system",
+              "processor": "A15 Bionic chip",
+              "connectivity": "5G",
+              "features": ["Face ID", "MagSafe"]
+            },
+            "type": "mobile",
+            "imageUrl": "https://www.apple.com/newsroom/images/product/iphone/standard/Apple-iPhone-14-Pro-iPhone-14-Pro-Max-silver-220907_inline.jpg.large.jpg"
+          },
+          {
+            "id": "14",
+            "name": "iPhone 13",
+            "price": {
+              "value": 799.00,
+              "currency": "USD"
+            },
+            "info": {
+              "color": "Product(Red)",
+              "storage": "128GB",
+              "display": "6.1-inch Super Retina XDR display",
+              "camera": "Dual 12MP camera system",
+              "processor": "A15 Bionic chip",
+              "connectivity": "5G",
+              "features": ["Face ID", "MagSafe"]
+            },
+            "type": "mobile",
+            "imageUrl": "https://media.very.co.uk/i/very/TNHNG_SQ1_0000000017_RED_SLf?$300x400_retinamobilex2$&$roundel_very$&p1_img=blank_apple"
+          },
+          {
+            "id": "15",
+            "name": "iPhone 15 Pro Max",
+            "price": {
+              "value": 1199.00,
+              "currency": "USD"
+            },
+            "info": {
+              "color": "Space Gray",
+              "storage": "512GB",
+              "display": "6.7-inch Super Retina XDR display",
+              "camera": "Triple 12MP camera system",
+              "processor": "A16 Bionic chip",
+              "connectivity": "5G",
+              "features": ["Face ID", "MagSafe"]
+            },
+            "type": "mobile",
+            "imageUrl": "https://waiphone.com/wp-content/uploads/2023/09/iphone-15-pro-max-titanio-negro.png"
+          },
+          {
+            "id": "16",
+            "name": "iPhone 14 Pro Max",
+            "price": {
+              "value": 1099.00,
+              "currency": "USD"
+            },
+            "info": {
+              "color": "Gold",
+              "storage": "256GB",
+              "display": "6.7-inch Super Retina XDR display",
+              "camera": "Triple 12MP camera system",
+              "processor": "A15 Bionic chip",
+              "connectivity": "5G",
+              "features": ["Face ID", "MagSafe"]
+            },
+            "type": "mobile",
+            "imageUrl": "https://www.apple.com/newsroom/images/product/iphone/standard/Apple-iPhone-14-Pro-iPhone-14-Pro-Max-gold-220907_inline.jpg.large.jpg"
+          },
+          {
+            "id": "17",
+            "name": "Mac Studio",
+            "price": {
+              "value": 1999.00,
+              "currency": "USD"
+            },
+            "info": {
+              "processor": "Apple M1 Max",
+              "memory": "32GB unified memory",
+              "storage": "1TB SSD",
+              "graphics": "Up to M1 Ultra with 64-core GPU",
+              "ports": ["4 Thunderbolt 4 ports", "HDMI port", "3 USB-A ports", "Gigabit Ethernet"],
+              "connectivity": ["Wi-Fi 6", "Bluetooth 5.0"]
+            },
+            "type": "computer",
+            "imageUrl": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/mac-studio-select-202306?wid=904&hei=840&fmt=jpeg&qlt=90&.v=1684345161143"
+          },
+          {
+              "id": "18",
+              "name": "Sony WH-1000XM5",
+              "price": {
+                "value": 349.99,
+                "currency": "USD"
+              },
+              "info": {
+                "type": "Over-ear headphones",
+                "wireless": true,
+                "noiseCancellation": true,
+                "features": ["Adaptive Sound Control", "30-hour battery life", "LDAC audio coding"]
+              },
+              "type": "headphone",
+              "imageUrl": "https://wish.lk/wp-content/uploads/2023/12/3.png"
+            },
+            {
+              "id": "19",
+              "name": "Apple AirPods 3rd Gen",
+              "price": {
+                "value": 159.00,
+                "currency": "USD"
+              },
+              "info": {
+                "type": "True wireless earbuds",
+                "wireless": true,
+                
+                "features": ["Hey Siri", "Quick access to Siri with a double-tap", "Up to 5 hours of listening time"]
+              },
+              "type": "headphone",
+              "imageUrl": "https://www.innovink.lk/wp-content/uploads/2021/11/MME73.jpeg"
+            },
+            {
+                "id": "20",
+                "name": "Apple AirPods Pro",
+                "price": {
+                  "value": 249.00,
+                  "currency": "USD"
+                },
+                "info": {
+                  "type": "True wireless earbuds",
+                  "wireless": true,
+                  
+                  "features": ["Active Noise Cancellation", "Transparency mode", "Adaptive EQ"]
+                },
+                "type": "headphone",
+                "imageUrl": "https://notebookcentre.am/wa-data/public/shop/products/92/40/4092/images/7580/7580.750@2x.jpg"
+              },
+            {
+              "id": "21",
+              "name": "Apple AirPods Max",
+              "price": {
+                "value": 549.00,
+                "currency": "USD"
+              },
+              "info": {
+                "type": "Over-ear headphones",
+                "wireless": true,
+                
+                "features": ["Active Noise Cancellation", "Spatial audio with dynamic head tracking", "Up to 20 hours of listening time"]
+              },
+              "type": "headphone",
+              "imageUrl": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/airpods-max-select-skyblue-202011_FV1_FMT_WHH?wid=940&hei=800&fmt=jpeg&qlt=90&.v=1604776025000"
+            },
+            {
+              "id": "22",
+              "name": "Beats Studio 3",
+              "price": {
+                "value": 349.95,
+                "currency": "USD"
+              },
+              "info": {
+                "type": "Over-ear headphones",
+                "wireless": true,
+                
+                "features": ["Pure Adaptive Noise Canceling", "Up to 22 hours of battery life", "Apple W1 chip for seamless connectivity"]
+              },
+              "type": "headphone",
+              "imageUrl": "https://lifemobile.lk/wp-content/uploads/2019/12/Beats-Studio-3-Wireless.jpg"
+            },
+            {
+              "id": "23",
+              "name": "JBL Tune 670NC",
+              "price": {
+                "value": 129.95,
+                "currency": "USD"
+              },
+              "info": {
+                "type": "Over-ear headphones",
+                "wireless": true,
+                
+                "features": ["Active Noise Cancelling", "Bluetooth", "Up to 27 hours of battery life"]
+              },
+              "type": "headphone",
+              "imageUrl": "https://www.jbl.com/dw/image/v2/BFND_PRD/on/demandware.static/-/Sites-masterCatalog_Harman/default/dwdf5d095d/01.JBL_Tune_670NC_Product%20Image_Hero_Blue.png?sw=535&sh=535"
+            }
+        
+
+	]
+}
+
