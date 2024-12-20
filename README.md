@@ -1,5 +1,3 @@
-Please go under edit and edit this file as needed for your project.  There is no seperate documentation needed.
-
 # Project Name - ShopEase
 # Student Id - IT21151392
 # Student Name - Dissanayake D.M.J.C.B
